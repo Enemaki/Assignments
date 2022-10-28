@@ -1,1 +1,1 @@
-This repository contains the zuri task from week 3 to week 5
+This branch contains all the frontend tasks for week 3
